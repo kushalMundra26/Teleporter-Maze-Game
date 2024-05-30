@@ -35,14 +35,6 @@ This repository contains a maze game developed using Pygame. The game features m
     python maze_game.py
     ```
 
-## Screenshots
-
-![Gameplay Screenshot](screenshots/level1.png)
-*Screenshot of Level 1*
-
-![Gameplay Screenshot](screenshots/level2.png)
-*Screenshot of Level 2*
-
 ## Code Overview
 
 ### Main Game Loop
