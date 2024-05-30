@@ -28,7 +28,7 @@ This repository contains a maze game developed using Pygame. The game features m
     ```
 3. Navigate to the project directory:
     ```bash
-    cd Teleporter-maze-game
+    cd Teleportor-Maze-Game
     ```
 4. Run the game:
     ```bash
