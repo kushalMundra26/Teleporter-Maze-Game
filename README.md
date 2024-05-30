@@ -24,15 +24,15 @@ This repository contains a maze game developed using Pygame. The game features m
     ```
 2. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/teleporter-maze-game.git
+    git clone https://github.com/yourusername/Teleporter-maze-game.git
     ```
 3. Navigate to the project directory:
     ```bash
-    cd teleporter-maze-game
+    cd Teleporter-maze-game
     ```
 4. Run the game:
     ```bash
-    python maze_game.py
+    python tele_maze.py
     ```
 
 ## Code Overview
